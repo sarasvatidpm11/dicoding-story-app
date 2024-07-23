@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Kisah Dicoding</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Ingin mempelajari Android, iOS, Machine Learning, Cloud, Front-End, Back-End, dan bidang IT lainnya? Belajar saja di Dicoding!</string>
+    <string name="title_welcome_page">Selamat datang di Dicoding!🤩</string>
+    <string name="title_signup_page">Daftar</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="message_login_page">Apakah Anda siap membaca kisah orang-orang yang bergabung dengan Dicoding? Ayo berangkat!😆</string>
+    <string name="title_login_page">Masuk</string>
+    <string name="name">Nama Lengkap</string>
+    <string name="message_main_page">CERITA DICODING</string>
+    <string name="logout">Keluar</string>
+    <string name="welcome_image">gambar selamat datang</string>
+    <string name="signin_image">gambar masuk</string>
+    <string name="signup_image">gambar pendaftaran</string>
+    <string name="story_user_image">gambar pengguna cerita</string>
+    <string name="description">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        It has survived not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with the release of
+        Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software
+        like Aldus PageMaker including versions of Lorem Ipsum.
+    </string>
+    <string name="title_upload_story">Unggah Cerita</string>
+    <string name="gallery">Galeri</string>
+    <string name="camera">Kamera</string>
+    <string name="upload_image">Unggah Gambar</string>
+    <string name="desc">Deskripsi</string>
+    <string name="upload_story">Unggah</string>
+    <string name="add_story">Tambahkan cerita</string>
+    <string name="warning_picture_cannot_empty">Gambar tidak boleh kosong</string>
+    <string name="maps">Peta</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="add_location">Tambahkan lokasi saya</string>
+    <string name="location">Lokasi</string>
+    <string name="location_not_found">Lokasi tidak dapat ditemukan. Silakan coba lagi!</string>
+    <string name="retry">Coba lagi</string>
+    <string name="no_data_found">Tidak ada data yang ditemukan</string>
+</resources>
